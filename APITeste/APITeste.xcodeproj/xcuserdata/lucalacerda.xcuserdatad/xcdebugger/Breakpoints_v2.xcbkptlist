@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3E0A830C-16AF-4A2D-86C1-104F9030869A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "673086B9-2A6A-4F66-86EE-EE3D4D428306"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APITeste/RepDescription.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "673086B9-2A6A-4F66-86EE-EE3D4D428306 - 3dee9b0b0924a828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2024">
+               </Location>
+               <Location
+                  uuid = "673086B9-2A6A-4F66-86EE-EE3D4D428306 - 3dee9b0b0924a828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2032">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CCD1538-417D-425E-9A57-6EB7F43D3AF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APITeste/RepDescription.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9CCD1538-417D-425E-9A57-6EB7F43D3AF7 - 3dee9b0b0924a809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "9CCD1538-417D-425E-9A57-6EB7F43D3AF7 - 3dee9b0b0924a809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "9CCD1538-417D-425E-9A57-6EB7F43D3AF7 - 3dee9b0b0924a809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "9CCD1538-417D-425E-9A57-6EB7F43D3AF7 - 3dee9b0b0924a809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B612B89-5383-4BED-827E-641C24B3F00E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APITeste/RepDescription.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4B612B89-5383-4BED-827E-641C24B3F00E - 3dee9b0b0924a885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  uuid = "4B612B89-5383-4BED-827E-641C24B3F00E - 3dee9b0b0924a885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1496">
+               </Location>
+               <Location
+                  uuid = "4B612B89-5383-4BED-827E-641C24B3F00E - 3dee9b0b0924a885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+               <Location
+                  uuid = "4B612B89-5383-4BED-827E-641C24B3F00E - 3dee9b0b0924a885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in APITeste.RepDescription.body.getter : some"
+                  moduleName = "APITeste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucalacerda/Documents/Xcode/SwiftUI/APITeste/APITeste/RepDescription.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
